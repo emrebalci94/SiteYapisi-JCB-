@@ -1,0 +1,337 @@
+﻿      body{
+            margin:0px;
+        }
+        header{
+            height:200px;
+            background-color:black;
+            width:100%;
+            position:absolute;
+            margin-top:0%;
+            position:fixed;
+            float:left;
+            background-attachment:fixed;
+            display:inline-block;
+            z-index:2;
+        }
+        #Banner{
+
+        }
+        #Banner img{
+            width:200px;
+            height:150px;
+            margin-left:50px;
+            margin-top:20px;
+            float:left;
+        }
+        #bannerBilgi{
+            float:left;
+            width:150px;
+            height:100px;
+            margin-top:50px;
+            margin-left:30px;
+        }
+       #bannerYazi1{
+           color:gold;
+       }
+       #bannerYazi2{
+           margin-top:-20px;
+           color:white;
+           text-align:right;
+       }
+       #bannerYazi2 span{
+           color:gold;
+       }
+       #Dil{
+           margin-top:30px;
+           margin-right:50px;
+           float:right;
+           width:100px;
+           height:50px;
+           color:gold;
+       }
+       #Dil span{
+           color:white;
+       }
+       nav{
+           height:50px;
+           width:950px;
+       
+           position:absolute;
+           margin-left:250px;
+           margin-top:150px; 
+       }
+       .menuler{
+           float:left;
+           margin-left:5px;
+          width:100px;
+          height:30px;
+          background-color:#535151;
+          opacity:0.5;
+          border:5px solid #535159;
+          border-radius:10px;
+          cursor:pointer;
+          color:white;
+          text-align:center;
+          display:flex;
+          justify-content:center;
+          align-items:center;
+          transition:opacity.5s ease-in-out;
+          transition:font-size.5s linear;
+       }
+       .menuler:hover{
+           opacity:1;
+           font-size:large;
+       }
+       article{
+           float:left;
+           position:absolute;
+           width:100%;
+           height:1500px;
+           position:static;
+           color:white;
+       }
+       #slayder{
+            float:left;
+           margin-top:15.8%;
+           color:white;
+           width:100%;
+           height:500px;
+           background-color:#a47d00;
+           justify-content:center;
+           align-items:center;
+           display:flex;
+       }
+       #slayder iframe{
+          
+           margin-top:0px;
+           border:none;
+           width:1000px;
+           height:510px;
+          
+       }
+   
+        #secenek{
+            display:flex;
+            position:absolute;
+            width:700px;
+            height:50px;
+            float:left;
+            margin-top:-10%;
+            margin-left:20%;
+            z-index:1;
+        }
+        .secim{
+            float:left;
+            border:3px solid white;
+            cursor:pointer;
+            height:15px;
+            width:15px;
+            border-radius:100%;
+            transition:background-color.5s linear;
+        }
+        .secim:hover{
+            background-color:white;
+        }
+        .line{
+            float:left;
+            width:100px;
+            height:10px;
+            color:white;
+        }
+        #bilgilendirme{
+            float:left;
+            width:100%;
+            height:50px;
+            color:black;
+            background-color:White;
+            font-family:Calibri;
+            font-size:14px;
+
+        }
+        #bilgilendirme p{
+            margin-left:12%;
+            float:left;
+        }
+        #arama{
+            margin-top:5px;
+            margin-right:120px;
+            width:300px;
+            height:30px;
+            float:right;
+        }
+        #aramaText{
+            width:150px;
+            height:30px;
+            margin-left:30px;   
+            border:1px solid #d7d7d7;
+            float:left;
+            border-radius:5px;
+        }
+        #aramaText img{
+            margin-top:5px;
+            width:20px;
+            height:20px;
+        }
+        #button{
+            width:100px;
+            height:30px;
+            background-color:#a47d00;
+            float:right;
+            border:1px solid gray;
+            border-radius:5px;  
+            text-align:center;
+            color:white;
+            cursor:pointer;
+        }
+        #orta{
+            float:left;
+            width:1000px;
+            height:350px;
+            margin-left:11%;
+            margin-right:auto;
+            color:black;
+        }
+        #ortayazi{
+            float:left;
+            width:700px;
+            height:500px;
+        }
+        #icerik{
+            float:left;
+            width:400px;
+        }
+        #ufakResim{
+            float:right;
+            width:300px;
+            height:300px;
+           
+        }
+        #ufakResim img{
+            margin-left:15px;
+            margin-top:10px;
+             border:3px solid gold;
+              width:200px;
+            height:200px;
+        }
+        #sagmenu{
+            float:right;
+             width:280px;
+            height:345px;
+            border:1px solid gray;
+
+        }
+        #baslik{
+            width:280px;
+            height:50px;
+              background-color:#a47d00;
+           justify-content:center;
+           align-items:center;
+           display:flex;
+           color:white;
+        }
+        .urunlerimiz{
+            float:left;
+            width:280px;
+            height:80px;
+            padding-bottom:10px
+        }
+        .urunlerimiz img{
+            margin-left:30px;
+            width:100px;
+            height:80px;
+            float:left;
+        }
+        .urunlerimiz p{
+            float:left;
+            margin-top:10%;
+            margin-left:10px;
+        }
+        #sagmenu hr{
+            color:white;
+            background-color:gold;
+            height:1px;
+            width:200px;        
+        }
+        #ortayazi a{
+            color:#a47d00;
+        }
+        #ufakResim hr{
+            margin-top:40px;
+           
+        }
+        #AltYazi{
+            float:left;
+            width:1000px;
+            height:350px;
+            margin-left:140px;
+            margin-top:1%;
+            color:black;
+        }
+        #altyazilar{
+            float:left;
+            width:700px;
+            height:300px;
+        }
+        #bla{
+            width:400px;
+            float:left;
+        }
+        #altyazilar img{
+                 margin-left:15px;
+            margin-top:10px;
+             border:3px solid gold;
+              width:200px;
+            height:200px;
+            
+        }
+        #media{
+               float:right;
+             width:280px;
+            height:315px;
+            border:1px solid gray;
+        }
+        video{
+            width:270px;
+            height:250px;
+            margin-left:5px;
+            background-color:black;
+            margin-top:2%;
+        }
+        #bla a{
+             color:#a47d00;
+        }
+        #altyazilar hr {
+            margin-top:7%;
+        }
+        footer{
+            float:left;
+            width:100%;
+            height:150px;
+            background-color:black;
+            color:white;
+        }
+        #fottermenu{
+        float:left;
+            width:700px;
+            height:50px;
+            margin-top:3%;
+            margin-left:5%;
+
+        }
+        #fottermenu ul{
+            list-style-type:none;
+        }
+        #fottermenu li{
+            float:left;
+            margin-left:3%;
+        }
+        #telif{
+            margin-top:7%;
+            color:gray;
+           margin-left:10%;
+        }
+        footer p{
+            float:right;
+            margin-top:-2%;
+            margin-right:10%;
+        }

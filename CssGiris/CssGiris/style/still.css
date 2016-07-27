@@ -1,0 +1,42 @@
+﻿body {
+      /* background: radial-gradient(circle farthest-side,  #ffffff,#055165);*/
+        background: -webkit-linear-gradient(top,#055165,rgb(255, 216, 0) 120%);
+        background-repeat:round;
+       margin-top:0px;
+}
+#site{
+    margin-left:auto;
+    margin-right:auto;
+    width:900px;
+    height:800px;
+    background:rgba(0,0,0,0.3);
+}
+#banner{
+    width:900px;
+    height:100px;
+    background-color:rgba(255, 216, 0,0.9);
+}
+#sol{
+    width:200px;
+    height:700px;
+        background-color:rgba(0, 0, 255,0.5);
+float:left;
+}
+#orta{
+width:500px;
+    height:700px;
+        background-color:rgba(0, 20, 150,0.5);
+float:left;
+}
+#sag{
+    width:200px;
+    height:700px;
+        background-color:rgba(0, 0, 255,0.5);
+float:left;
+}
+p[class=paragraf]{/*p elementinin paragraf klasına şunlar olacak*/
+
+}
+.paragraf{/*Classın özellikleri*/
+
+}

@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        body{
+         background: -webkit-linear-gradient(top,#055165,#ffffff 120%);
+        }
+        .divler{
+            float:left;
+            margin-left:15px;
+        }
+        .resim{
+            width:200px;
+            height:200px;
+            border:solid;
+            border-radius:14px;
+            color:white;
+            cursor:pointer;
+            
+            transition:opacity 0.5s ease-in-out;
+            opacity:0.2;
+        }
+            .resim:hover {
+                     /*bacground-size:140%;*/  
+                opacity:1;
+               background-image: url('img/a.png');
+                background-repeat:round;
+                
+            }
+           
+    #site{
+        height:850px;
+    }
+    p{
+        width:200px;
+        height:200px;
+        color:white;
+        border:solid;
+        border-radius:15px;
+          transition:opacity 0.5s ease-in-out;
+            opacity:0.2;
+    }
+    p:hover{
+         background-image: url('img/a.png');
+                background-repeat:round;
+                opacity:1;
+    }
+    .imgborder{
+        width:200px;
+        height:200px;
+         border:solid;
+            border-radius:14px;
+            color:white;
+            display:normal;
+    }
+    .imgborder:hover{
+        display:none;
+    }
+   
+        </style>
+</head>
+<body>
+    <div id="site">
+        <a href="http://www.google.com" target="_blank">  <div class="divler"><img class="resim" alt="Merhaba Dünya" /></div></a>
+        <a href="http://www.google.com" target="_blank">
+            <div class="divler"><p>Merhaba Dünya</p></div>
+        </a>
+            <a href="http://www.google.com" target="_blank">  <div class="divler"><img class="resim" alt="Merhaba Dünya" /></div></a>
+</div>
+</body>
+</html>

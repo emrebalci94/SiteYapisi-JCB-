@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\bin\CssGiris.dll.config
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\bin\CssGiris.dll
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\bin\CssGiris.pdb
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\obj\Debug\CssGiris.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\obj\Debug\CssGiris.dll
+C:\Users\Administrator\Desktop\Visiual Studio Form Ornekleri\CssGiris\CssGiris\obj\Debug\CssGiris.pdb
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\bin\CssGiris.dll.config
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\bin\CssGiris.dll
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\bin\CssGiris.pdb
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\obj\Debug\CssGiris.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\obj\Debug\CssGiris.dll
+C:\Users\Administrator\Desktop\Web Örnekleri\CssGiris\CssGiris\obj\Debug\CssGiris.pdb
